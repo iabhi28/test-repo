@@ -1,4 +1,4 @@
-
+//scripts starts here
 const accessKey = "7SJEl6KQSYtTM4uhCqODBsM1Q6whgQTj2Dj1T-7NzHQ";
 //create 4 major elemets - form,input search field, search results, show more button
 const formEle = document.querySelector("form");
